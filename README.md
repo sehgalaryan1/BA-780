@@ -1,2 +1,4 @@
 # BA-780
-A data-driven analysis of the relationship between corporate performance metrics and stock price movements, comparing trends in large-cap (VOO) and small-cap (VSMAX) companies. This project identifies key financial indicators that drive market behavior.
+This project investigates the relationship between corporate Key Performance Indicators (KPIs) and their impact on stock performance, aiming to find correlations between financial statement variables and stock returns. Conducted by a team consisting of Aryan Sehgal, Brendan Wilcox, Nilay Jaini, Arnav Sachdeva, and Mishil Trivedi, the study highlights the differences between companies in both the Vanguard S&P 500 ETF (VOO) and the Vanguard Small-Cap Index Fund (VSMAX).
+
+The project compares data across VOO and VSMAX, showcasing the differing trends in large-cap versus small-cap companies. Visualizations, including line graphs, bar charts, and scatter plots, were used to identify which financial variables have the strongest relationships with stock returns, providing insights into performance-driven market moves.
